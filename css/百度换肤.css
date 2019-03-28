@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{	
+	background: url(../img/3.jpg) no-repeat;	
+}
+#imgv{
+	padding-top: 50px;
+	text-align: center;
+	line-height: 150px;
+	background-color: rgba(255,255,255,0.2);
+}
+#imgv img{
+	width: 150px;
+	cursor: pointer;
+}
